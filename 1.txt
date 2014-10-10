@@ -3,3 +3,5 @@ hi
 made in china
 cat
 banana
+hello
+hi
