@@ -2,3 +2,4 @@ hello
 hi
 made in china
 cat
+banana
